@@ -203,7 +203,8 @@
   position: absolute;
   bottom: -1.5em;
   right: -86px;
-  color: #e2b123;
+  /*color: #e2b123;*/
+  color: #724cb9;
   text-shadow: none; }
   
 .flip-clock-divider.days .flip-clock-label {
