@@ -649,7 +649,7 @@ var FlipClock;
 		 * The default language
 		 */	
 		 
-		defaultLanguage: 'english',
+		defaultLanguage: 'spanish',
 		 
 		/**
 		 * The jQuery object
@@ -673,7 +673,7 @@ var FlipClock;
 		 * The language being used to display labels (string)
 		 */	
 		 
-		language: 'english',
+		language: 'spanish',
 		 
 		/**
 		 * The minimum digits the clock must have
