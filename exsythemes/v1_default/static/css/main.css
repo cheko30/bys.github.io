@@ -1369,6 +1369,11 @@ span.swirl-right {
     	font-size: 10px;
     	width: 100px;
 	}
+
+	.formConfirmar{
+		width: 500px;
+		height: 400px;
+	}
 }
 
 @media only screen and (max-width: 1300px) {
@@ -1991,6 +1996,10 @@ span.swirl-right {
 	}
 	.flip-clock-wrapper {
     	max-width: 295px;
+	}
+	.formConfirmar{
+		width: 300px;
+		height: 200px;
 	}
 }
 /***********************************
