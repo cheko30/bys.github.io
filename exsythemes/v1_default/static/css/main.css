@@ -1374,6 +1374,12 @@ span.swirl-right {
 		width: 500px;
 		height: 400px;
 	}
+
+	.mapa{
+		width: 600px;
+		height: 450px;
+	}
+	
 }
 
 @media only screen and (max-width: 1300px) {
@@ -1998,6 +2004,11 @@ span.swirl-right {
     	max-width: 295px;
 	}
 	.formConfirmar{
+		width: 250px;
+		height: 300px;
+	}
+
+	.mapa{
 		width: 250px;
 		height: 300px;
 	}
